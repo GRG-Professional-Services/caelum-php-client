@@ -1,0 +1,8 @@
+{
+	"packageName": "CaelumPhpClient",
+	"invokerPackage": "CaelumPhpClient",
+	"PackagePath": "CaelumPhpClient",
+	"variableNamingConvention": "camelCase",
+	"gitUserId": "GRG-Professional-Services",
+	"gitRepoId": "caelum-php-client"
+}
